@@ -1,0 +1,5 @@
+
+public enum CarColor 
+{
+	RED, BLACK, WHITE, BLUE, SILVER, YELLOW, MISCELANEOUS
+}

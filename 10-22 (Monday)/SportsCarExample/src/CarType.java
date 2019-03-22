@@ -1,0 +1,5 @@
+
+public enum CarType
+{
+	PORSCHE, FERRARI, JAGUAR, LAMBORGHINI, MCLAREN, MISC
+}
